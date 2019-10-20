@@ -14,6 +14,8 @@
 	<integer>0</integer>
 	<key>AppleSmoothFixedFontsSizeThreshold</key>
 	<integer>1</integer>
+	<key>AppleWindowTabbingMode</key>
+	<string>manual</string>
 	<key>AutoHideTmuxClientSession</key>
 	<false/>
 	<key>CheckTestRelease</key>
@@ -1121,6 +1123,8 @@
 	<integer>46</integer>
 	<key>HotkeyCode</key>
 	<integer>47</integer>
+	<key>HotkeyMigratedFromSingleToMulti</key>
+	<true/>
 	<key>HotkeyModifiers</key>
 	<integer>1048840</integer>
 	<key>IRMemory</key>
@@ -1181,13 +1185,13 @@
 		<integer>1</integer>
 	</dict>
 	<key>NSWindow Frame NSFontPanel</key>
-	<string>472 216 744 162 0 0 1440 900 </string>
+	<string>472 150 744 94 0 0 1440 900 </string>
 	<key>NSWindow Frame Preferences</key>
 	<string>110 421 606 456 0 0 1440 900 </string>
 	<key>NSWindow Frame SUUpdateAlert</key>
 	<string>410 382 620 392 0 0 1440 900 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>0 176 1440 724 0 0 1440 900 </string>
+	<string>0 152 1440 748 0 0 1440 900 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>183 72 650 501 0 0 1440 900 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
@@ -2752,9 +2756,9 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-02-19T16:07:20Z</date>
+	<date>2018-03-09T17:34:50Z</date>
 	<key>SUSkippedVersion</key>
-	<string>3.0.14</string>
+	<string>3.1.5</string>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>Show Toolbelt</key>
@@ -2806,6 +2810,6 @@
 	<key>findRegex_iTerm</key>
 	<true/>
 	<key>iTerm Version</key>
-	<string>3.0.2</string>
+	<string>3.1.4</string>
 </dict>
 </plist>
